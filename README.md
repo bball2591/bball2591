@@ -2,7 +2,7 @@
  
 **BSc Data Science @ LSE** (Predicted First Class, 2027) · Quant Finance & ML
  
-Currently interning at a family office and an agritech ML startup in Cyprus.  
+Currently interning at a Grant Thorton Cyprus , and I am trainee at D+A strategies.  
 Previously: **PwC Athens** (Data Analytics) · **Grant Thornton** (Quantitative Risk).  
 Member of **D+A Strategies** — quant trading network across LSE, Bocconi, NYU Stern, and Imperial.
  
